@@ -11,3 +11,4 @@ if(!empty($_FILES["file"])){
         echo "There was an error uploading the file, please try again!";
     }
 }
+;?>
